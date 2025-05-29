@@ -83,7 +83,6 @@ AUTH0_CLIENT_ID=your_auth0_client_id
 AUTH0_CLIENT_SECRET=your_auth0_client_secret
 AUTH0_DOMAIN=your-auth0-domain.auth0.com
 APP_SECRET_KEY=some-random-string
-PORT=3000
 ```
 
 Replace the values with your actual Auth0 application settings.
