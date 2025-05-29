@@ -123,6 +123,10 @@ The `/protected` route is only accessible to authenticated users.
 └── README.md
 ```
 
+## Link to Youtube Video Recording
+
+https://youtu.be/gPijqOHkMI8
+
 ---
 
 ## 📚 References
