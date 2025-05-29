@@ -19,8 +19,8 @@ This is a simple Flask web application that demonstrates user authentication wit
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/yvanniyonzima-ac/cst8919-lab1-auth-python.git
+cd cst8919-lab1-auth-python
 ```
 
 ---
@@ -95,7 +95,7 @@ Replace the values with your actual Auth0 application settings.
 Once everything is configured:
 
 ```bash
-python app.py
+python server.py
 ```
 
 Then visit `http://localhost:3000` in your browser.
@@ -115,7 +115,7 @@ The `/protected` route is only accessible to authenticated users.
 
 ```
 .
-├── app.py
+├── server.py
 ├── .env
 ├── requirements.txt
 ├── templates/
